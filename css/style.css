@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    background-color: black;
+}
+
+.banner-header{
+    background-image: url(../img/capa.png);
+    background-size: auto 100%; 
+    background-position: center;
+    width: 100%;
+    height: 100vh;
+}
